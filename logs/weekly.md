@@ -100,13 +100,19 @@ Slow but steady progress toward project goals
 
 
 IIT-Madras Internship → received introductory assignments on AI/Data Science.
+
+
 Building-U High School Internship → attended orientation call, given first content-research brief.
+
+
 Created separate folders on GitHub to document internship reflections & outputs.
 
 
 
  📘 Academic Update
 Sat for Spanish, English, and Physics IB exams — ✅ completed.
+
+
 Balancing EE and project with study time this week → lower dev output but continued maintaining GitHub consistency.
 
 
