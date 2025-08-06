@@ -22,6 +22,8 @@ Institution: IIT Madras (or RIT – you can edit)
 
 
 
+
+
 # 🗓️ StudentOS - Week 2 Log (July 2025)
 
 📅 Daily Breakdown:
@@ -85,6 +87,10 @@ Found KNN surprisingly intuitive, but model tuning is tricky with small datasets
 Realized that proper data cleaning significantly boosts model accuracy.
 Excited about neural networks — eager to explore deeper in upcoming weeks.
 Need to revise core metrics (precision/recall) for the quiz next week.
+
+
+
+
 
 
 # 🗓️ StudentOS - Week 3 Log (July- August)
