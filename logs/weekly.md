@@ -72,7 +72,7 @@ Uploaded cleaned dataset and results to personal GitHub repo
 
 
 
-# 📝 Key Learnings:
+📝 Key Learnings:
 Understood how to differentiate between classification and regression tasks.
 Gained hands-on experience in data preprocessing, modeling, and evaluation.
 Learned to use key tools like Pandas, scikit-learn, Seaborn, and Matplotlib.
@@ -80,7 +80,7 @@ Discovered the importance of visualizations in understanding model performance.
 
 
 
-# 💡 Reflections:
+💡 Reflections:
 Found KNN surprisingly intuitive, but model tuning is tricky with small datasets.
 Realized that proper data cleaning significantly boosts model accuracy.
 Excited about neural networks — eager to explore deeper in upcoming weeks.
@@ -95,17 +95,23 @@ Internship onboarding and initial tasks
 Academic commitments + exam management
 Slow but steady progress toward project goals
 🔧 Internship Progress
-# ✅ Officially started 2 new internships:
+✅ Officially started 2 new internships:
+
+
 
 IIT-Madras Internship → received introductory assignments on AI/Data Science.
 Building-U High School Internship → attended orientation call, given first content-research brief.
 Created separate folders on GitHub to document internship reflections & outputs.
 
-# 📘 Academic Update
+
+
+ 📘 Academic Update
 Sat for Spanish, English, and Physics IB exams — ✅ completed.
 Balancing EE and project with study time this week → lower dev output but continued maintaining GitHub consistency.
 
-# 📌 Goals for Week 4
+
+ 
+ 📌 Goals for Week 4
 Begin code-based graphical logging of internship tasks
 Upload screenshots + finish documentation for vector portion
 Add first internship reflection entry to logs/ repo
