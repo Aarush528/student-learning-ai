@@ -22,25 +22,24 @@ Institution: IIT Madras (or RIT – you can edit)
 
 
 
-Week: 2
-Duration: July 15 to July 21, 2025
+# 🗓️ StudentOS - Week 2 Log (July 2025)
 
 📅 Daily Breakdown:
 
-📌 Day 1 – July 15
+📌 Day 1 
 Attended lecture on Supervised vs Unsupervised Learning
 Learned about K-Nearest Neighbors (KNN) and Decision Trees
 Practical exercise: Applied KNN to a mock dataset using Python and scikit-learn
 Realized how tuning k impacts model accuracy
 
 
-📌 Day 2 – July 16
+📌 Day 2
 Covered basics of Data Cleaning and Feature Engineering
 Explored techniques like handling missing values, one-hot encoding, and normalization
 Started preprocessing a real-world dataset (Titanic dataset or similar)
 
 
-📌 Day 3 – July 17
+📌 Day 3
 Learned Model Evaluation Techniques: accuracy, precision, recall, F1-score
 Hands-on activity: Calculated confusion matrix and metrics from scratch
 Began comparing Logistic Regression and KNN performance
@@ -53,14 +52,14 @@ Explored matplotlib for data visualization and plotting residuals
 
 
 
-📌 Day 5 – July 19
+📌 Day 5 
 Workshop on Python Libraries for Data Science (NumPy, Pandas, Matplotlib, Seaborn)
 Did exploratory data analysis (EDA) and correlation heatmaps
 Got introduced to overfitting and bias-variance tradeoff
 
 
 
-📌 Day 6 – July 20
+📌 Day 6 =
 Guest lecture or recorded session: Intro to Neural Networks
 Explored a beginner-level ANN with Keras
 Noted how layers, activation functions, and optimizers work
@@ -73,7 +72,7 @@ Uploaded cleaned dataset and results to personal GitHub repo
 
 
 
-📝 Key Learnings:
+# 📝 Key Learnings:
 Understood how to differentiate between classification and regression tasks.
 Gained hands-on experience in data preprocessing, modeling, and evaluation.
 Learned to use key tools like Pandas, scikit-learn, Seaborn, and Matplotlib.
@@ -81,8 +80,33 @@ Discovered the importance of visualizations in understanding model performance.
 
 
 
-💡 Reflections:
+# 💡 Reflections:
 Found KNN surprisingly intuitive, but model tuning is tricky with small datasets.
 Realized that proper data cleaning significantly boosts model accuracy.
 Excited about neural networks — eager to explore deeper in upcoming weeks.
 Need to revise core metrics (precision/recall) for the quiz next week.
+
+
+# 🗓️ StudentOS - Week 3 Log (July- August)
+
+
+Focus areas this week:
+Internship onboarding and initial tasks
+Academic commitments + exam management
+Slow but steady progress toward project goals
+🔧 Internship Progress
+# ✅ Officially started 2 new internships:
+
+IIT-Madras Internship → received introductory assignments on AI/Data Science.
+Building-U High School Internship → attended orientation call, given first content-research brief.
+Created separate folders on GitHub to document internship reflections & outputs.
+
+# 📘 Academic Update
+Sat for Spanish, English, and Physics IB exams — ✅ completed.
+Balancing EE and project with study time this week → lower dev output but continued maintaining GitHub consistency.
+
+# 📌 Goals for Week 4
+Begin code-based graphical logging of internship tasks
+Upload screenshots + finish documentation for vector portion
+Add first internship reflection entry to logs/ repo
+
