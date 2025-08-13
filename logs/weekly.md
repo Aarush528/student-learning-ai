@@ -128,3 +128,39 @@ Begin code-based graphical logging of internship tasks
 Upload screenshots + finish documentation for vector portion
 Add first internship reflection entry to logs/ repo
 
+
+
+
+# Week 3 Update – August 2025
+
+
+
+This week was a busy blend of academics, leadership, and ongoing projects:
+
+
+
+
+📘Academics: Completed my Unit Tests for Spanish, English, and Physics, Business Management, computer science,  balancing preparation alongside project commitments.
+
+
+
+
+📌IITM Internship: Continued with assigned tasks and research modules, progressing through core assignments and Datasets.
+
+
+📌U-Build Internship: Waiting to vist the fullstack developer team.
+
+
+
+📌Leadership Duties: Attended the Prefectorial meeting as Deputy Head Boy (Pastoral Care) , trying contributing to planning and school initiatives.
+
+
+📌NGO Development: Worked on building the EVEREST NGO website UI/UX design and structure (wix) , ensuring it aligns with our mission and vision.
+
+
+
+📌Extra-Curricular: Maintained involvement in school activities while managing academic and project timelines effectively.
+
+
+Focus for next week: Finalize NGO website prototype, continue internship deliverables, and integrate feedback from leadership meetings.
+
