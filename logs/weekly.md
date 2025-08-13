@@ -15,13 +15,6 @@ Kickstart the StudentOS project — a personal AI-powered learning assistant to 
 - How version control helps me not mess things up
 - That learning by building > watching tutorials
 
-🧠 Internship Weekly Log – Week 2 (July 15 – July 21, 2025)
-Name: Aarush Jha
-Internship Title: Data Science & Artificial Intelligence Internship
-Institution: IIT Madras (or RIT – you can edit)
-
-
-
 
 
 # 🗓️ StudentOS - Week 2 Log (July 2025)
@@ -47,7 +40,7 @@ Hands-on activity: Calculated confusion matrix and metrics from scratch
 Began comparing Logistic Regression and KNN performance
 
 
-📌 Day 4 – July 18
+📌 Day 4 
 Deep dive into Linear Regression for prediction problems
 Practiced building regression models using real housing dataset
 Explored matplotlib for data visualization and plotting residuals
@@ -61,13 +54,13 @@ Got introduced to overfitting and bias-variance tradeoff
 
 
 
-📌 Day 6 =
+📌 Day 6 
 Guest lecture or recorded session: Intro to Neural Networks
 Explored a beginner-level ANN with Keras
 Noted how layers, activation functions, and optimizers work
 
 
-📌 Day 7 – July 21
+📌 Day 7
 Revision of Week 2 content
 Started preparing for Week 3 quiz (topics: KNN, Regression, EDA)
 Uploaded cleaned dataset and results to personal GitHub repo
@@ -131,7 +124,7 @@ Add first internship reflection entry to logs/ repo
 
 
 
-🗓️ StudentOS - Week 4 Log (July- August)
+# 🗓️ StudentOS - Week 4 Log (July- August)
 
 
 This week was a busy blend of academics, leadership, and ongoing projects:
