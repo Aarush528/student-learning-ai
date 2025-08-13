@@ -131,8 +131,7 @@ Add first internship reflection entry to logs/ repo
 
 
 
-# Week 3 Update – August 2025
-
+🗓️ StudentOS - Week 4 Log (July- August)
 
 
 This week was a busy blend of academics, leadership, and ongoing projects:
