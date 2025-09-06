@@ -154,5 +154,46 @@ This week was a busy blend of academics, leadership, and ongoing projects:
 📌Extra-Curricular: Maintained involvement in school activities while managing academic and project timelines effectively.
 
 
+
+
+
+# Week 5 Progress Log – August, 2025
+
+Status: 📖 Exam Prep Mode | ⚡ Reduced Internship Activity
+
+📚 Academics – Term Exam Focus
+
+📌Dedicated majority of the week to Mathematics AA HL:
+
+📌Revision of functions, quadratics, logarithms, and asymptotes.
+
+📌Solved past papers & timed practice sessions.
+
+📌Intensive preparation for Computer Science HL:
+
+Reviewed A1 System Fundamentals (interrupts, polling, paging, swapping).
+
+Practiced structured answers for IB-style questions.
+
+Reinforced understanding of abstraction and CPU performance topics.
+
+💻 Internships
+
+Light progress due to exams:
+
+Submitted pending IITM assignments.
+
+Updated progress tracker for U-Build Internship.
+
+🏫 Leadership
+
+Balanced academics with ongoing prefectorial duties.
+
+🌍 EVEREST NGO
+
+📌Minimal updates this week to prioritize academics.
+
+📌Planned roadmap for post-exam activities (website expansion + fundraising).
+
 Focus for next week: Finalize NGO website prototype, continue internship deliverables, and integrate feedback from leadership meetings.
 
