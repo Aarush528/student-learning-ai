@@ -197,3 +197,48 @@ Balanced academics with ongoing prefectorial duties.
 
 Focus for next week: Finalize NGO website prototype, continue internship deliverables, and integrate feedback from leadership meetings.
 
+
+
+
+# Week 6 Progress Log – August 25–31, 2025
+
+Status: ⚡ Balanced | 📖 Exam Continuation + EE Research
+
+📚 Academics – Exam Prep
+
+📌Continued Term Exams with steady focus.
+
+📌Reduced emphasis on Math AA HL this week → light revision only.
+
+📌Stronger emphasis on Computer Science HL:
+
+📌Reviewed CPU performance factors (cache, clock speed, cores, pipelines).
+
+📌 Practiced past IB questions on system fundamentals.
+
+🧠 Extended Essay Research
+
+Deepened research on CPU architectural limits.
+
+Started notes on:
+
+Thermal bottlenecks in silicon-based CPUs.
+
+Emerging alternatives: quantum computing (Google Willow chip), Majorana qubits, neuromorphic computing.
+
+Drafted early structure → Introduction + RQ refinement.
+
+💻 Internships
+
+IITM 
+
+Light engagement, prioritizing exam schedule.
+Checked in with supervisors for next assignment timelines.
+
+🏫 Leadership
+
+Continued to fulfill prefectorial responsibilities.
+
+🌍 EVEREST NGO
+
+No active project execution this week.
