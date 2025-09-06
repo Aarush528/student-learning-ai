@@ -171,6 +171,8 @@ Status: 📖 Exam Prep Mode | ⚡ Reduced Internship Activity
 
 📌Intensive preparation for Computer Science HL:
 
+📌Dedicated weekend to School MUN
+
 Reviewed A1 System Fundamentals (interrupts, polling, paging, swapping).
 
 Practiced structured answers for IB-style questions.
@@ -200,7 +202,7 @@ Focus for next week: Finalize NGO website prototype, continue internship deliver
 
 
 
-# Week 6 Progress Log – August 25–31, 2025
+# Week 6 Progress Log – August, 2025
 
 Status: ⚡ Balanced | 📖 Exam Continuation + EE Research
 
